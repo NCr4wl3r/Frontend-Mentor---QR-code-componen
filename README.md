@@ -63,4 +63,3 @@ Implement media queryes for diferent devices
 - Frontend Mentor - [@NCr4wl3r](https://www.frontendmentor.io/profile/NCr4wl3r)
 - Twitter - [@Espar_RodBar](https://www.twitter.com/Espar_RodBar)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
